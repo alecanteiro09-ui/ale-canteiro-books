@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" role="img" aria-label="The Art of Money Getting by P. T. Barnum, ePub ebook cover">
+<rect width="600" height="800" fill="#2f5d50"/>
+<rect x="0" y="0" width="600" height="14" fill="#f6efe0" fill-opacity=".9"/>
+<text x="580" y="640" text-anchor="end" font-family="Georgia,serif" font-weight="700" font-size="520" fill="#f6efe0" fill-opacity=".08">A</text>
+<text x="60" y="120" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="5" fill="#f6efe0" fill-opacity=".75">ALE CANTEIRO DIGITAL</text>
+<line x1="60" y1="150" x2="140" y2="150" stroke="#f6efe0" stroke-width="4"/>
+<text x="60" y="300" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="48" fill="#f6efe0">THE ART OF</text><text x="60" y="358" font-family="Georgia,'Times New Roman',serif" font-weight="700" font-size="48" fill="#f6efe0">MONEY GETTING</text>
+<text x="60" y="690" font-family="Georgia,serif" font-style="italic" font-size="30" fill="#f6efe0">P. T. Barnum</text>
+<text x="60" y="730" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="3" fill="#f6efe0" fill-opacity=".7">LIBRARY EDITION · ePub</text>
+</svg>
